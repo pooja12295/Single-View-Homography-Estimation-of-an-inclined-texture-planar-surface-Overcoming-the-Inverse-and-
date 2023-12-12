@@ -23,14 +23,9 @@ We created our own dataset because there was no such dataset that could be used 
 ![Screenshot from 2023-12-11 12-08-36](https://github.com/pooja12295/HOMOGRAPHY-ESTIMATION-FROM-ONLY-A-SINGLE-VIEW-TEXTURED-PLANAR-SURFACE-USING-IMAGE-RECTIFICATION/assets/57430450/021e9acf-d6fa-4629-8604-9b975033a3e4)
 ![Screenshot from 2023-12-11 12-09-05](https://github.com/pooja12295/HOMOGRAPHY-ESTIMATION-FROM-ONLY-A-SINGLE-VIEW-TEXTURED-PLANAR-SURFACE-USING-IMAGE-RECTIFICATION/assets/57430450/5dd5b7c1-2e5f-44ca-9fa3-438aec2e99f3)
 ![Screenshot from 2023-12-11 12-09-42](https://github.com/pooja12295/HOMOGRAPHY-ESTIMATION-FROM-ONLY-A-SINGLE-VIEW-TEXTURED-PLANAR-SURFACE-USING-IMAGE-RECTIFICATION/assets/57430450/6e4e4b17-ec7e-4b67-823f-402a737e5a30)
+ 
 
-5. Quantitative Results:
-
-![Screenshot from 2023-12-11 12-10-56](https://github.com/pooja12295/HOMOGRAPHY-ESTIMATION-FROM-ONLY-A-SINGLE-VIEW-TEXTURED-PLANAR-SURFACE-USING-IMAGE-RECTIFICATION/assets/57430450/33b32aa7-3327-4122-b22e-51d6aacfc5ed)
-
-Note: Our method is not trained on any dataset as it uses classical method while other SOTA use deep learning techniques and are trained on various datasets. 
-
-6. Faiiure Cases:
+5. Faiiure Cases:
 
 ![Screenshot from 2023-12-11 12-13-14](https://github.com/pooja12295/HOMOGRAPHY-ESTIMATION-FROM-ONLY-A-SINGLE-VIEW-TEXTURED-PLANAR-SURFACE-USING-IMAGE-RECTIFICATION/assets/57430450/26713f51-af60-4052-a58a-10ea85727723)
 ![Screenshot from 2023-12-11 12-13-42](https://github.com/pooja12295/HOMOGRAPHY-ESTIMATION-FROM-ONLY-A-SINGLE-VIEW-TEXTURED-PLANAR-SURFACE-USING-IMAGE-RECTIFICATION/assets/57430450/11b6e5ea-0707-4e18-ba74-80666295d41e)
