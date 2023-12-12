@@ -5,7 +5,7 @@
 We propose a solution for  single view homography estimation, where given only a single view of an inclined texture planar surface we estimate the homography and the corresponding orthogonal (rectified) view of the planar surface. [To the best of our knowledge, we are the first to estimate homography using single input image] This research also proposes a "homography dataset" that contains diverse and challenging texture images (mostly checkerboard and grid patterns with a few real-world scenes). Numerous experiments were conducted to verify the performance of our proposed algorithm and our work demonstrates cutting-edge performance on various texture datasets such as Stereocamera Chessboard dataset, Synthetic Chess Board Images, and Chess Pieces Object Detection.
 
 
-3. Proposed methodology:
+2. Proposed methodology:
 
 ![Screenshot from 2023-12-11 12-02-28](https://github.com/pooja12295/HOMOGRAPHY-ESTIMATION-FROM-ONLY-A-SINGLE-VIEW-TEXTURED-PLANAR-SURFACE-USING-IMAGE-RECTIFICATION/assets/57430450/63ded384-e5e5-483e-93c0-19c48a47c9ad)
 
